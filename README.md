@@ -21,7 +21,7 @@ The same code with a few tweaks can also scrape other Leagues from fbref.com
 pip install -r requirements.txt
 
 3. Run the script:
-python fbref_scraping.py
+python fixture_results.py
 
 
 ## Usage
