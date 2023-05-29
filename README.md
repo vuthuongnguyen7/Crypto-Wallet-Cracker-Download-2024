@@ -11,7 +11,7 @@ The CSV file contains the following columns:
 - FT (Full Time)
 - Team 2
 
-PS: There is There is lots of room for further optimizations 🚀🚀.
+PS: There is lots of room for further optimizations 🚀🚀.
 ## Requirements
 - Python 3.x
 - requests
